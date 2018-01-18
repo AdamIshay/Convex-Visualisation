@@ -31,7 +31,7 @@ alpha=np.linspace(1,0,res+1)
 p=.2 #magnitude of border around function 
 ccpr=3 #convex combination of points resolution (lower if it is running slow)
 diff=np.abs(x2o-x1o)
-t=50 # time (miliseconds) between each frame
+t=50 # time (milliseconds) between each frame
 
 
 # Function to visualize, try x^2, x^3, e^x , abs(x)
