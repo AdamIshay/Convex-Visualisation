@@ -1,4 +1,4 @@
-# Convex-Visualisation
+# Convex-Visualization
 
 An animation that shows visually if the condition for a function to be a convex function is satisfied. Works with any continuous functions, and between any two points chosen by the user.
 
